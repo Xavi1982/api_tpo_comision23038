@@ -4,7 +4,7 @@
             "id": 1,
             "Nombre": 	  "Nicolás Fuentes",
             "Puesto": 	  "Director General, El Mago del Marketing",
-            "Antigüedad": "Co-Fundador e Ideologo",
+            "Antiguedad": "Co-Fundador e Ideologo",
             "imagen": "https://cdn.pixabay.com/photo/2016/03/27/16/54/face-1283106_1280.jpg"
         },
 
@@ -12,7 +12,7 @@
             "id": 2,
             "Nombre": 	  "Maximiliano Jatib",
             "Puesto": 	  "Gerente de Diseño, El Cerebro de todo esto",
-            "Antigüedad": "Co-Fundador y Alma Mater",
+            "Antiguedad": "Co-Fundador y Alma Mater",
             "imagen": "https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166_1280.jpg"
 
         },
@@ -21,7 +21,7 @@
             "id": 3,
             "Nombre": 	  "Xavier Prado",
             "Puesto": 	  "Jefe de Proyecto, en algo había que ponerlo...",
-            "Antigüedad": "5 semananas y contando...",
+            "Antiguedad": "5 semananas y contando...",
             "imagen": "https://cdn.pixabay.com/photo/2018/10/29/21/46/human-3782189_1280.jpg"
         }
     ],
